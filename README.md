@@ -1,2 +1,2 @@
-# test-repository
-Test repository
+# Test repository
+Learning GitHub
